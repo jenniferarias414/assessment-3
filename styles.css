@@ -1,0 +1,61 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.buttons {
+	background-color: rgb(249, 249, 177);
+	border: 1px solid black;
+	border-radius: 5px;
+	text-align: center;
+	font-size: 15px;
+	padding: 19px 15px;
+	/* display: flexbox; */
+	/* display: flex; */
+	display: inline-block;
+	margin-right: 10px;
+	
+}
+
+.click {
+	display: flex;
+}
+
+.mckinney {
+	width: 600px;
+	height: 200px;
+}
