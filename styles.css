@@ -59,3 +59,29 @@ img {
 	width: 600px;
 	height: 200px;
 }
+
+.intro {
+	display: flex;
+	display: inline-block;
+}
+
+.random {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding-bottom: 30px;
+}
+
+#random-btn {
+	padding: 10px;
+	border-radius: 10px;
+	background-color: white;
+}
+
+/* #contact {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 500px;
+} */
